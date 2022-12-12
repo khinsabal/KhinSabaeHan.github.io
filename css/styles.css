@@ -15,7 +15,7 @@ body {
    outline-color: #d48a6e;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 992px) {
   #sideNav {
     padding-left: 0;
     padding-right: 0;
